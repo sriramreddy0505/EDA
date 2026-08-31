@@ -3,7 +3,7 @@ This project is intended to touch and feel Exploratory Data Analysis using Excel
 
 
 # No Code
- Excel, PowerBI, SQL
+ Excel, PowerBI, SQL, Postgres
 
  # Code 
  NumPy, Pandas, MatplotLib
